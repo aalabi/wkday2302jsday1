@@ -1,0 +1,12 @@
+Create a class called Questions
+Has 3 attributes
+    1. question(string): question is not empty string
+    2. options(array): option must have minimum of 2 elements
+    3. answer(int) must be less than the length of option
+Create 10 instances of the class and store them in an array
+
+Bonus
+Loop tru the array and display on the screen the format below
+
+1. Who is the President of Nigeria
+a. Tinubu    b. Alabi   c. Obi
